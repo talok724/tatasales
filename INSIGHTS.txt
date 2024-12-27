@@ -1,0 +1,21 @@
+INSIGHTS
+------------------------When you are deleting the rows then you have to do it on the raw data not the imputed one.----------------
+
+
+
+Drop the unit price col with value == 0 
+Value of the samples which were distributed is 3039.65 (-3039.65)
+Manual entry in the data set represented as (34932.7) and (-100432.34) which make a total revenue of -65499.640
+In 2010 -($693.98) of value was given as discount
+In 2011 a total of -($5028.98) was given as discount in which the highest was given in the month of April -1999.62 and the individual discount was of -1867.86
+
+Value of postages is 215155.710 and loss from the postages is -10318.8
+removed the insignificant value of PADS from the stock code columns	
+Bad debt is been adjusted for amount -11062.06
+Cancer Research UK Commission of -7933.43
+transportation of goods(carriage) = 1475.0
+In Bank charges the loss incurred is -7340.64 and recovered 165.001
+
+
+
+
